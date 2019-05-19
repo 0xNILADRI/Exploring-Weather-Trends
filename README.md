@@ -1,7 +1,8 @@
 # Udacity-Data-Analyst-Project-01---Exploring-Weather-Trends
 
 ## Abstract:
-SQL Query was used to download (CSV) file that contains yearly average temperature of the cities ‘Ranchi’ ,‘Patna’ ,‘Bangalore’ and the global temperature. \n
+SQL Query was used to download (CSV) file that contains yearly average temperature of the cities ‘Ranchi’ ,‘Patna’ ,‘Bangalore’ and the global temperature.
+
 Later the data has been analyzed using Python Programming Language using Jupyter Notebook Environment.
 
 ## Introduction
