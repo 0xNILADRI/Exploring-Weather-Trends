@@ -26,4 +26,3 @@ Cities which I chose:
 
 #### Observations :
 - Conclusions I made after working with the data "Detailed conclusion in the Report file"
-- Drawing out the conclusion about the data.
