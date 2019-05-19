@@ -16,13 +16,13 @@ Later the data has been analyzed using Python Programming Language using Jupyter
 
 ## Progress outline:
 
-Extract the data :
-• Downloading 4 data files from SQL database as CSV, namely "ranchi_data.csv", "patna_data.csv", "bangalore_data.csv" and "global_data.csv".
+#### Extract the data :
+- Downloading 4 data files from SQL database as CSV, namely "ranchi_data.csv", "patna_data.csv", "bangalore_data.csv" and "global_data.csv".
 
-Create a line chart :
-• Calculating the Moving Average (Rolling Average) to make the task easier while plotting in the charts.
-• Visualizing the Data Using matplotlib
+#### Create a line chart :
+- Calculating the Moving Average (Rolling Average) to make the task easier while plotting in the charts.
+- Visualizing the Data Using matplotlib
 
-Observations :
-• I made observations the i saw related to the data "you can find more details on the Report file"
-• I made a conclusion about the data.
+#### Observations :
+- I made observations the i saw related to the data "you can find more details on the Report file"
+- I made a conclusion about the data.
