@@ -24,5 +24,5 @@ Later the data has been analyzed using Python Programming Language using Jupyter
 - Visualizing the Data Using matplotlib
 
 #### Observations :
-- I made observations the i saw related to the data "you can find more details on the Report file"
-- I made a conclusion about the data.
+- Conclusions I made after working with the data "Detailed conclusion in the Report file"
+- Drawing out the conclusion about the data.
