@@ -10,12 +10,12 @@ In this project, I will be analyzing the three local cities and the global tempe
 
 Aim of this project is to create a visualization and describe the changing temperature of each cities with respect to the passing time. Let's see if the graph deviates from the least to the highest polluted cities in India. At last i'll be preparing a brief report weather we are facing a global temprature crisis.
 
-Python libraries used:
+#### Python libraries used:
         1.Numpy
         2.Pandas
         3.Matplotlib.pyplot
         
-Cities which I chose:
+#### Cities which I chose:
         1.Ranchi (own city) - 142 (PM10)
         2.Patna (highly polluted) - 119.7 (PM2.5)
         3.Bangalore (least polluted) - 71 mg/cubic meter (RSPM)
