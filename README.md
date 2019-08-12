@@ -10,6 +10,8 @@ In this project, I will be analyzing the three local cities and the global tempe
 
 Aim of this project is to create a visualization and describe the changing temperature of each cities with respect to the passing time. Let's see if the graph deviates from the least to the highest polluted cities in India. At last i'll be preparing a brief report weather we are facing a global temprature crisis.
 
+![alt text](https://raw.githubusercontent.com/niladrihere/Udacity-Data-Analyst-Project-01---Exploring-Weather-Trends/master/intellicast-current-temperature-in-united-states-world-climate-at-weather-map-on-3.jpg)
+
 #### Python libraries used:
         1.Numpy
         2.Pandas
